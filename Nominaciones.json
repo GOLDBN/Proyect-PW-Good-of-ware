@@ -1,22 +1,43 @@
 [
     {
        "id": 1,
-       "image": "./images/juego/gordoswar.jpg",
-       "nominacion": "God Of War",
-       "descripcion": "God of war es por como el juego se desenvuelve, la narrativa que construye me gustó we, ya que la importancia de los.personajes secundarios se eleva, dejando de lado el apartado gráfico, el gameplay lo senti más frenético que el anterior <br> Nos cuenta Max un critico de juegos"
+       "nominacion": "Mejor juego con apoyo de la comunidad"
     },
     {
         "id": 2,
-        "image": "./images/juego/el del ring.jpg",
-        "nominacion": "Elden Ring",
-        "descripcion": "El juego de mundo abierto y sucesor de la saga Dark Souls, Elden Ring,  se ha convertido en uno de los fenómenos de este año 2022. El juego de Fromsoftware ha llevado a miles de jugadores a descubrir Las Tierras Intermedias y conseguir reparar el círculo de Elden, descubrir toda la historia detrás de la Reina Márika y así convertirte en el nuevo Señor del Círculo."
+        "nominacion": "Mejor dirección"
 
      },
      {
         "id": 3,
-        "image": "./images/juego/Mimir_en_God_of_War_Ragnarok.webp",
-        "nominacion": "",
-        "descripcion": ""
-     }
+        "nominacion": "Mejor narrativa"
+     },
+     {
+        "id": 4,
+        "nominacion": "Mejor dirección artística"
+     },
+     {
+         "id": 5,
+         "nominacion": "Mejor banda sonora"
+ 
+      },
+      {
+         "id": 6,
+         "nominacion": "Mejor sonido"
+      },
+      {
+        "id": 7,
+        "nominacion": "Mejor actuación"
+     },
+     {
+         "id": 8,
+         "nominacion": "Juego con mayor impacto"
+ 
+      },
+      {
+         "id": 9,
+         "nominacion": "Mejor juego en activo"
+      }
+     
      
 ]

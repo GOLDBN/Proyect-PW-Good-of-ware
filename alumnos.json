@@ -1,0 +1,23 @@
+[
+    {
+       "id": 1,
+       "image": "./images/juego/w3/1.jpeg",
+       "alumno": "Maldonado Ramirez Marco Alexis"
+    },
+    {
+        "id": 2,
+        "image": "/images/juego/w3/2.jpeg",
+        "alumno": "Osorio Barrera Carlos Ariel"
+    },
+     {
+        "id": 3,
+        "image": "/images/juego/w3/3.jpeg",
+        "alumno": "Martinez Reynoso Jair"
+     },
+     {
+      "id": 4,
+      "image": "/images/juego/w3/4.png",
+      "alumno": "Josue Adrian Ramirez Hernandez"
+   }
+
+] 
