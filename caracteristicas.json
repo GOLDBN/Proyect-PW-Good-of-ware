@@ -2,19 +2,64 @@
     {
        "id": 1,
        "image": "./images/juego/descargar.jpeg",
-       "caract": "",
-       "descripcion": ""
+       "caract": "personaje de videojuegos de la serie God of War de Santa Monica Studio, que se basó en la mitología griega, antes de pasar a la mitología nórdica. También conocido como el Fantasma de Esparta",
+       "descripcion": "Kratos es un Gran personaje que tiene un buen desarrollo, lo vemos pasar de su ira incontrolable a una paz en el que se encuentra en armonia pero esto aun no es el fin tiene mucho que recorrer para ser feliz"
     },
     {
         "id": 2,
         "image": "./images/juego/Atreus.webp",
-        "caract": "",
-       "descripcion": ""
+        "caract": "Al ser un semidiós, Atreus posee fuerza y agilidad sobrehumana al igual que Kratos. Y además posee una gran habilidad con todas las lenguas, incluso puede comunicarse con los animales y hasta con Jörmundgander.",
+       "descripcion": "Ser el hijo del fantasma de esparta no le sera facil el camido de la vida teniendo complicaciones y el no saber controlar sus poderes su inocencia sera puesta a prueba"
+    },
      {
         "id": 3,
         "image": "./images/juego/Mimir_en_God_of_War_Ragnarok.webp",
-        "caract": "",
-        "descripcion": ""
-     }
+        "caract": "Siendo cortado por el acha de kratos ahora solo es una cabeza reanimada mas no viva",
+        "descripcion": "es el Señor de la Sabiduría y el Conocimiento, conocido popularmente por ser el hombre vivo más listo, es un ser de gran inteligencia que sirvió como consejero de Odín hasta que este le aprisionó en un árbol durante 109 inviernos."
+     },
+     {
+      "id": 4,
+      "image": "./images/juego/lachica.jpg",
+      "caract": "Angrboda es una jotún conocida por ser la madre de Fenrir o, lo que es lo mismo, la esposa de Loki.",
+      "descripcion": "La joven tiene todos los puntos para ser el interés romántico de Atreus en esta aventura. Está en edad de conocer también el amor, más allá de los tiempos de guerra y el inevitable Ragnarok."
+   },
+   {
+    "id": 5,
+    "image": "./images/juego/211943-freya-article_image_d-1",
+    "caract": "Freya es un apoyo fundamental en el primer God of War, tanto para Kratos como sobre todo para Atreus. ella es la reina de las valkirias exesposa de odin.",
+    "descripcion": "Freya jura venganza por la muerte de su hijo y no tiene ningún reparo ni miedo para enfrentarse al mismísimo Kratos."
+ },
+ {
+  "id": 6,
+  "image": "./images/juego/thor.jpeg",
+  "caract": "Un hombre feo con el pecho de barril, que lleva una colección de armas mágicas",
+  "descripcion": "Thor será el antagonista principal del juego, como ya adelantaban las escenas post-créditos -al regresar a la casa de los protagonistas tras completar la aventura- del juego de 2018. Es el dios del trueno en la mitología nórdica, de ahí su inconfundible martillo con poderes eléctricos. Es hijo de Odin y Fjörgyn y hermanastro de Baldur y Tyr, de quien luego hablaremos."
+},
+{
+ "id": 7,
+ "image": "./images/juego/tyr.jpg",
+ "caract": "En God of War cuentan que quedó encerrado por Odin, quien le consideraba una amenaza porque sospechaba que tramaba algo con los gigantes. Ahora, Kratos y Atreus le rescatan. Como vemos, Tyr también tiene los ojos dorados, como Mimir, tras un regalo por parte de los gigantes.",
+ "descripcion": "Týr es el dios Aesir de la guerra, la ley, la justicia y el honor. Es hijo de Odin y Fjörgyn, hermano menor de Thor, medio hermano mayor de Heimdall y Baldur, y tío de Magni, Modi, Forseti y Thrúd."
+},
+{
+ "id": 8,
+ "image": "./images/juego/as.jpg",
+ "caract": "Aunque Brok es inofensivo, a menudo es grosero, descuidado y maleducado. Con frecuencia maldice a Kratos y Atreus, incluso le da a su bestia (Huldra Creature) de carga el nombre de jodida gratitud. También rivaliza con su hermano en habilidades de forja. Su personalidad es opuesta a la de su hermano Sindri, quien es educado y algo cobarde.",
+ "descripcion": "Es un Enano, junto con su hermano Sindri, él y su hermano solían trabajar juntos hasta que comenzaron a discutir sobre quién era el mejor, lo que provocó que el negocio familiar se dividiera en dos, al trabajar uno de los enanos por su cuenta con el mitades de su antigua etiqueta. La pareja fue responsable de forjar el martillo de Thor, Mjölnir, y el hacha de Kratos, Leviatán, que antes pertenecía a Laufey."
+},
+{
+ "id": 9,
+ "image": "./images/juego/5.jpg",
+ "caract": "A quien también podemos ver en el tráiler. Pero, de momento, no hay ninguna información sobre quién es",
+ "descripcion": "Parece una especie de científico, por lo que podríamos apostar que su papel será el de mercader para mejorar y desarrollar algunos parámetros de los personajes, como runas o poderes mágicos."
+},
+{
+ "id": 10,
+ "image": "./images/juego/o.jpg",
+ "caract": "A quien también podemos ver en el tráiler. Pero, de momento, no hay ninguna información sobre quién es",
+ "descripcion": "Dado que Odín es posiblemente el Dios más importante de la mitología nórdica, y considerando su ausencia total en God of War (2018), su apariencia exacta ha estado envuelta en misterio durante mucho tiempo, lo que ha llevado a la emisión de muchas hipótesis entre la comunidad."
+}
+
+
      
 ]
