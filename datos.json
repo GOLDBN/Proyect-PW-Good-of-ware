@@ -1,0 +1,18 @@
+[
+    {
+       "id": 1,
+       "image": "./images/juego/descargar.jpeg",
+       "name": "Kratos"
+    },
+    {
+        "id": 2,
+        "image": "./images/juego/Atreus.webp",
+        "name": "Atreus"
+     },
+     {
+        "id": 3,
+        "image": "./images/juego/Mimir_en_God_of_War_Ragnarok.webp",
+        "name": "Mimir"
+     }
+     
+]
