@@ -1,0 +1,22 @@
+[
+    {
+       "id": 1,
+       "image": "",
+       "nominacion": "",
+       "descripcion": ""
+    },
+    {
+        "id": 2,
+        "image": "./images/juego/Atreus.webp",
+        "nominacion": "",
+        "descripcion": ""
+
+     },
+     {
+        "id": 3,
+        "image": "./images/juego/Mimir_en_God_of_War_Ragnarok.webp",
+        "nominacion": "",
+        "descripcion": ""
+     }
+     
+]
